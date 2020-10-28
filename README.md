@@ -1,1 +1,2 @@
 Recursive-alarm
+While preparing for any competition, we often need to keep a track of time. Normal alarm wont provide such features as it rings once and needs to be stopped manually to stop it from ringing further. It also needs to be reset everytime. Recursive alarm gives you the facility to adjust the ringing time, no of times the alarm should repeat, the duration after which the alarm should ring and also the frequency of the alarm sound. 
